@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body  {
+    background-color: #DAD8D8;
+}
+.container footer {
+    background-color: #BE7F3F;
+}
+.navbar-custom {
+    background-color: #4F5C13;
+}
+.container-fluid .container .navbar.navbar-expand-lg {
+    background-color: #4F5C13;
+}
+.navbar.navbar-expand-lg .navbar-toggler .navbar-toggler-icon {
+    background-color: #A7A5A5;
+}
+.nav-link   {
+    color: #FFFFFF;
+  
+}
+.card.col-md-4.col-xl-12 .card-body .btn.btn-primary {
+    background-color: #4F5C13;
+}
+a   {
+    color: #000000;
+}
+.card.col-xl-12.col-md-12 .card-body .btn.btn-primary {
+    background-color: #4F5C13;
+}
+a:hover {
+    color: #191919;
+    text-decoration: underline;
+}
+.container .navbar.navbar-expand-lg #navbarSupportedContent1 {
+    margin-left: 67px;
+}
